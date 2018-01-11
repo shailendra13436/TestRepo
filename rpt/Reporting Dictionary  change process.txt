@@ -1,0 +1,11 @@
+open  >>  PULSAR\REPORTING_FILES\ENCRYPT
+
+Change the ReportsDictionary.xml file
+
+then  drag it to 
+
+PULSAR\Output\Debug\Bin  >>
+DocumentEncrypt
+
+paste the enc file to folder
+PULSAR\Output\Debug\Bin
